@@ -15,7 +15,7 @@ app.use(express.json());
 
 
 const allowedOrigins = [
-  "https://my-world-x66a.onrender.com", // your frontend on Render
+  "https://maheshdevportfolio.netlify.app/", // your frontend on Render
   "http://localhost:5173" // for local testing
 ];
 
